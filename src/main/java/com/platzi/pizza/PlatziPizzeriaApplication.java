@@ -8,6 +8,7 @@ public class PlatziPizzeriaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PlatziPizzeriaApplication.class, args);
+		System.out.println("Hola mundo");
 	}
 
 }
